@@ -1,7 +1,6 @@
-Ansible-Playbooks
+Ansible-Lynis
 ===========
 
-This repo will hold Ansible Playbooks that I work on for personal development projects.  
-=================
+This [Ansible](http://www.ansible.com/home) Role installs [Lynis](https://cisofy.com/lynis/) open source security auditing tool in Debian machines. 
 
-
+============

@@ -1,4 +1,0 @@
-- name: Lynis | Make sure Lynis is installed
-  apt: pkg=lynis
-
- 
