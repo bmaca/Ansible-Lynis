@@ -1,7 +1,6 @@
 Ansible-Lynis
 ===========
 
-This Ansible Role installs Lynis open source security auditing tool in Debian machines. 
-=================
+This [Ansible](http://www.ansible.com/home) Role installs [Lynis](https://cisofy.com/lynis/) open source security auditing tool in Debian machines. 
 
 
